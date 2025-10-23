@@ -19,17 +19,18 @@ Buenas prácticas en el diseño de interfaces y experiencia de usuario.
 
 Este tipo de aplicación es similar a lo que muchas empresas utilizan para desarrollar herramientas internas o clientes livianos de escritorio en entornos empresariales con .NET.
 
-⚙️ Tecnologías utilizadas
+🛠️ Tecnologías
 
 Lenguaje: C#
 
-Framework: .NET Framework / .NET 6+
+Framework: .NET Framework 
 
-Interfaz gráfica: Windows Forms
+UI: Windows Forms
 
-Librerías: WMPLib / NAudio (según la versión)
+Multimedia: WMPLib / AxWMPLib (Windows Media Player embebido)
 
 IDE: Visual Studio 2022
+
 🎧 Funcionalidades principales
 
 Reproducir, pausar, detener canciones locales.
