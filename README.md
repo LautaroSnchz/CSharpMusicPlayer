@@ -57,11 +57,19 @@ CSMusicPlayer/
 
 💼 Lo que demuestra este proyecto
 
-Este proyecto refleja competencias clave para un desarrollador .NET SSR o Desktop Developer:
+Dominio de WinForms y programación dirigida por eventos.
 
-Dominio de Windows Forms y eventos.
+Encapsulamiento simple del modelo de dominio (Song) y gestión de listas en memoria.
 
-Uso de C# orientado a objetos.
+Integración con componentes COM (Windows Media Player) desde .NET.
+
+Buenas prácticas básicas:
+
+Separación de responsabilidades (UI / Dominio / Infra).
+
+Validaciones de estado (null-checks, lista vacía, etc.).
+
+Organización del proyecto y recursos.
 
 Conocimiento en integración de componentes multimedia.
 
